@@ -1,0 +1,15 @@
+{
+  "name": "pdfme-cmyk-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdfme/common": "^3.4.3",
+    "@pdfme/generator": "^3.4.3"
+  }
+}
