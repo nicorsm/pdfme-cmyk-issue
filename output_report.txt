@@ -1,0 +1,1569 @@
+﻿Pages 1 - 3 from "output.pdf"
+	Problems
+		Used profile: "Convert to PDF/X-1a (Coated FOGRA39)"
+		Document
+			OutputIntent for PDF/X missing
+				Has Output Intent
+			PDF/X version key (GTS_PDFXVersion) missing
+				Has PDF/X version
+			Trapped key not true or false
+				Is Trapped
+			Document ID missing
+				Has document ID
+			Compressed object streams used
+				Has compressed object streams
+			Document title empty/missing
+				Title
+			Detailed information
+				File name: "output.pdf"
+				Path: "/Users/nico/Projects/pdfme-cmyk-issue"
+				PDF version number: "1.7"
+				File size (byte): 70682
+				Author: "pdfme (https://pdfme.com/)"
+				Creator: "pdfme (https://pdfme.com/)"
+				Producer: "pdfme (https://pdfme.com/)"
+				Created: "27/03/24 17:13"
+				Modified: "27/03/24 17:13"
+				Trapping: "Unknown"
+				Plates
+					Number of plates: 4
+					Names of plates: "(Cyan) (Magenta) (Yellow) (Black) "
+			Output Intents: none
+			Layers: none
+			Embedded files: none
+		Page: 1
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+						Text properties
+							Type 1 font
+								Text position and size
+									Text horizontal position (pt): 112.242256
+									Text vertical position (pt): 467.691650
+									Text width (pt): 617.412598
+									Text height (pt): 18.993652
+								PostScript name: MyriadPro-Regular
+								Encoding: WinAnsiEncoding
+								Font is a subset
+								Embedded: True
+								Font descriptors
+									Maximum height above the baseline: 952
+									y-coordinate of the top of flat capital letters: 674
+									Maximum depth below the baseline: -250
+									Italic angle in degrees counterclockwise: 0
+									Width of the dominant vertical stems of glyphs: 88
+									Average width of characters: 0
+									Desired spacing between lines: 0
+									Maximum width of characters: 0
+									Width to use for un-encoded characters.: 0
+									Vertical width of the dominant horizontal stems of glyphs: 0
+									y-coordinate of the top of flat non-ascending lowercase letters: 484
+									PostScript name: DFZHHW+MyriadPro-Regular
+									Various properties
+										Fixed-width font: False
+										Serif font: False
+										Symbolic font: False
+										Script font: False
+										Uses the Adobe Standard Roman Character Set: True
+										Italic: False
+										All-caps font: False
+										Small-caps font: False
+										Force bold at small text sizes: False
+							Current font size: 26.343500
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.000000
+								0.681000
+								0.938000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.926000
+								0.000000
+								0.548000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								1.000000
+								0.949000
+								0.000000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Object uses RGB
+				Is DeviceRGB
+				Detailed information
+					Graphic state properties
+						Images
+							Current transformation matrix (CTM)
+								208.768295
+								0.000000
+								0.000000
+								208.768295
+								316.568115
+								80.002411
+								X translation: 1.516361
+								Y translation: 0.383211
+								X scaling: 208.768295
+								Y scaling: 208.768295
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Current position and size
+								X position on page (pt): 316.568115
+								Y position on page (pt): 80.002411
+								Width on page (pt): 208.768311
+								Height on page (pt): 208.768280
+							Current image resolution
+								Horizontal resolution (pixels/inch): 353.501953
+								Vertical resolution (pixels/inch): 353.501953
+							Width: 1025
+							Height: 1025
+							Bits per color component: 8
+							Treated as a mask: False
+							Perform interpolation: False
+							Rendering intent: RelativeColorimetric
+							Compression/encoding
+								ZIP/Flate compression: FlateDecode
+							DeviceRGB color space
+		Page: 2
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+						Text properties
+							Type 1 font
+								Text position and size
+									Text horizontal position (pt): 112.242256
+									Text vertical position (pt): 467.691650
+									Text width (pt): 617.412598
+									Text height (pt): 18.993652
+								PostScript name: MyriadPro-Regular
+								Encoding: WinAnsiEncoding
+								Font is a subset
+								Embedded: True
+								Font descriptors
+									Maximum height above the baseline: 952
+									y-coordinate of the top of flat capital letters: 674
+									Maximum depth below the baseline: -250
+									Italic angle in degrees counterclockwise: 0
+									Width of the dominant vertical stems of glyphs: 88
+									Average width of characters: 0
+									Desired spacing between lines: 0
+									Maximum width of characters: 0
+									Width to use for un-encoded characters.: 0
+									Vertical width of the dominant horizontal stems of glyphs: 0
+									y-coordinate of the top of flat non-ascending lowercase letters: 484
+									PostScript name: DFZHHW+MyriadPro-Regular
+									Various properties
+										Fixed-width font: False
+										Serif font: False
+										Symbolic font: False
+										Script font: False
+										Uses the Adobe Standard Roman Character Set: True
+										Italic: False
+										All-caps font: False
+										Small-caps font: False
+										Force bold at small text sizes: False
+							Current font size: 26.343500
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.000000
+								0.681000
+								0.938000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.926000
+								0.000000
+								0.548000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								1.000000
+								0.949000
+								0.000000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Object uses RGB
+				Is DeviceRGB
+				Detailed information
+					Graphic state properties
+						Images
+							Current transformation matrix (CTM)
+								208.768295
+								0.000000
+								0.000000
+								208.768295
+								316.568115
+								80.002411
+								X translation: 1.516361
+								Y translation: 0.383211
+								X scaling: 208.768295
+								Y scaling: 208.768295
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Current position and size
+								X position on page (pt): 316.568115
+								Y position on page (pt): 80.002411
+								Width on page (pt): 208.768311
+								Height on page (pt): 208.768280
+							Current image resolution
+								Horizontal resolution (pixels/inch): 353.501953
+								Vertical resolution (pixels/inch): 353.501953
+							Width: 1025
+							Height: 1025
+							Bits per color component: 8
+							Treated as a mask: False
+							Perform interpolation: False
+							Rendering intent: RelativeColorimetric
+							Compression/encoding
+								ZIP/Flate compression: FlateDecode
+							DeviceRGB color space
+		Page: 3
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+						Text properties
+							Type 1 font
+								Text position and size
+									Text horizontal position (pt): 112.242256
+									Text vertical position (pt): 467.691650
+									Text width (pt): 617.412598
+									Text height (pt): 18.993652
+								PostScript name: MyriadPro-Regular
+								Encoding: WinAnsiEncoding
+								Font is a subset
+								Embedded: True
+								Font descriptors
+									Maximum height above the baseline: 952
+									y-coordinate of the top of flat capital letters: 674
+									Maximum depth below the baseline: -250
+									Italic angle in degrees counterclockwise: 0
+									Width of the dominant vertical stems of glyphs: 88
+									Average width of characters: 0
+									Desired spacing between lines: 0
+									Maximum width of characters: 0
+									Width to use for un-encoded characters.: 0
+									Vertical width of the dominant horizontal stems of glyphs: 0
+									y-coordinate of the top of flat non-ascending lowercase letters: 484
+									PostScript name: DFZHHW+MyriadPro-Regular
+									Various properties
+										Fixed-width font: False
+										Serif font: False
+										Symbolic font: False
+										Script font: False
+										Uses the Adobe Standard Roman Character Set: True
+										Italic: False
+										All-caps font: False
+										Small-caps font: False
+										Force bold at small text sizes: False
+							Current font size: 26.343500
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.000000
+								0.681000
+								0.938000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.926000
+								0.000000
+								0.548000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								1.000000
+								0.949000
+								0.000000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Uses device independent color
+				Is CIE based color space
+				Detailed information
+					Graphic state properties
+						Graphic properties
+							Current transformation matrix (CTM)
+								1.000000
+								0.000000
+								0.000000
+								1.000000
+								0.000000
+								0.000000
+								X translation: 0.000000
+								Y translation: 0.000000
+								X scaling: 1.000000
+								Y scaling: 1.000000
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Effective line width: 1.000000
+							Miter limit: 10.000000
+							Stroke adjustment: True
+							Flatness: 1.000000
+							Smoothness: 0.000000
+							Overprint mode: 1
+							Overprint for stroke: False
+							Overprint for fill: False
+							Rendering intent: RelativeColorimetric
+							Line dash pattern
+								Dash phase: 0.000000
+							Line cap style: Butt end caps
+							Line join style: Miter joins
+							Fill color space
+								ICC based color space
+									Components range
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+										0.000000
+										1.000000
+									Number of color components: 3
+									Alternate color space
+										DeviceRGB color space
+									ICC profile data
+										Profile version number: "2.1.0"
+										Color Management Module (CMM) type: "Lino"
+										Profile/Device class signature: "mntr"
+										Color space of data: "RGB "
+										Profile Connection Space (PCS): "XYZ "
+										Magic number: "acsp"
+										Primary Platform: "Microsoft Corporation (MSFT)"
+										Device manufacturer: "Hewlett-Packard (IEC )"
+										Device model: "(sRGB)"
+										Profile creator: "Hewlett-Packard (HP)"
+										Creation date: "09/02/98 06:49"
+										Default rendering intent: Perceptual
+										Profile illuminant
+											Illuminant X: 0.964203
+											Illuminant Y: 1.000000
+											Illuminant Z: 0.824905
+										Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+										Profile description: "sRGB IEC61966-2.1"
+										Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+										Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+							Fill colorant values
+								0.137000
+								0.123000
+								0.126000
+							Stroke color space
+								DeviceGray color space
+							Transparency
+								Fill constant alpha: 1.000000
+								Stroke constant alpha: 1.000000
+								Alpha is shape: False
+								Text knockout: True
+								Blend mode (direct)
+									Normal
+								Soft mask: None
+			Object uses RGB
+				Is DeviceRGB
+				Detailed information
+					Graphic state properties
+						Images
+							Current transformation matrix (CTM)
+								208.768295
+								0.000000
+								0.000000
+								208.768295
+								316.568115
+								80.002411
+								X translation: 1.516361
+								Y translation: 0.383211
+								X scaling: 208.768295
+								Y scaling: 208.768295
+								Rotation counterclockwise: 0.000000
+								Skew: 0.000000
+							Current position and size
+								X position on page (pt): 316.568115
+								Y position on page (pt): 80.002411
+								Width on page (pt): 208.768311
+								Height on page (pt): 208.768280
+							Current image resolution
+								Horizontal resolution (pixels/inch): 353.501953
+								Vertical resolution (pixels/inch): 353.501953
+							Width: 1025
+							Height: 1025
+							Bits per color component: 8
+							Treated as a mask: False
+							Perform interpolation: False
+							Rendering intent: RelativeColorimetric
+							Compression/encoding
+								ZIP/Flate compression: FlateDecode
+							DeviceRGB color space
+	Overview
+		Document information
+			File name: "output.pdf"
+			Path: "/Users/nico/Projects/pdfme-cmyk-issue"
+			PDF version number: "1.7"
+			File size (byte): 70682
+			Author: "pdfme (https://pdfme.com/)"
+			Creator: "pdfme (https://pdfme.com/)"
+			Producer: "pdfme (https://pdfme.com/)"
+			Created: "27/03/24 17:13"
+			Modified: "27/03/24 17:13"
+			Trapping: "Unknown"
+			Plates
+				Number of plates: 4
+				Names of plates: "(Cyan) (Magenta) (Yellow) (Black) "
+		Output Intents: none
+		Layers: none
+		Embedded files: none
+		Color spaces
+			ICC based color space
+				Components range
+					0.000000
+					1.000000
+					0.000000
+					1.000000
+					0.000000
+					1.000000
+				Number of color components: 3
+				Alternate color space
+					DeviceRGB color space
+				ICC profile data
+					Profile version number: "2.1.0"
+					Color Management Module (CMM) type: "Lino"
+					Profile/Device class signature: "mntr"
+					Color space of data: "RGB "
+					Profile Connection Space (PCS): "XYZ "
+					Magic number: "acsp"
+					Primary Platform: "Microsoft Corporation (MSFT)"
+					Device manufacturer: "Hewlett-Packard (IEC )"
+					Device model: "(sRGB)"
+					Profile creator: "Hewlett-Packard (HP)"
+					Creation date: "09/02/98 06:49"
+					Default rendering intent: Perceptual
+					Profile illuminant
+						Illuminant X: 0.964203
+						Illuminant Y: 1.000000
+						Illuminant Z: 0.824905
+					Copyright information: "Copyright (c) 1998 Hewlett-Packard Company"
+					Profile description: "sRGB IEC61966-2.1"
+					Profile ID (MD5 hash (ISO 32000)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+					Profile ID (MD5 hash (ISO 15076)): "1D3FDA2EDB4A89AB60A23C5F7C7D81DD"
+			DeviceRGB color space
+		Fonts
+			Type 1 font
+				PostScript name: MyriadPro-Regular
+				Encoding: WinAnsiEncoding
+				Font is a subset
+				Embedded: True
+				Font descriptors
+					Maximum height above the baseline: 952
+					y-coordinate of the top of flat capital letters: 674
+					Maximum depth below the baseline: -250
+					Italic angle in degrees counterclockwise: 0
+					Width of the dominant vertical stems of glyphs: 88
+					Average width of characters: 0
+					Desired spacing between lines: 0
+					Maximum width of characters: 0
+					Width to use for un-encoded characters.: 0
+					Vertical width of the dominant horizontal stems of glyphs: 0
+					y-coordinate of the top of flat non-ascending lowercase letters: 484
+					PostScript name: DFZHHW+MyriadPro-Regular
+					Various properties
+						Fixed-width font: False
+						Serif font: False
+						Symbolic font: False
+						Script font: False
+						Uses the Adobe Standard Roman Character Set: True
+						Italic: False
+						All-caps font: False
+						Small-caps font: False
+						Force bold at small text sizes: False
+		Images
+			Images
+				Width: 1025
+				Height: 1025
+				Bits per color component: 8
+				Treated as a mask: False
+				Perform interpolation: False
+				Compression/encoding
+					ZIP/Flate compression: FlateDecode
+				DeviceRGB color space
+			Images
+				Width: 1025
+				Height: 1025
+				Bits per color component: 8
+				Treated as a mask: False
+				Perform interpolation: False
+				Compression/encoding
+					ZIP/Flate compression: FlateDecode
+				DeviceRGB color space
+			Images
+				Width: 1025
+				Height: 1025
+				Bits per color component: 8
+				Treated as a mask: False
+				Perform interpolation: False
+				Compression/encoding
+					ZIP/Flate compression: FlateDecode
+				DeviceRGB color space
+		Graphic state properties
+			Graphic state properties
+				Stroke adjustment: True
+				Overprint mode: 1
+				Overprint for stroke: False
+				Overprint for fill: False
+				Transparency
+					Fill constant alpha: 1.000000
+					Stroke constant alpha: 1.000000
+					Alpha is shape: False
+					Blend mode (direct)
+						Normal
+					Soft mask: None
+			Graphic state properties
+				Transparency
+					Fill constant alpha: 1.000000
+		Form XObjects
+			Form XObjects
+				Form transformation matrix
+					1.000000
+					0.000000
+					0.000000
+					1.000000
+					0.000000
+					0.000000
+					X translation: 0.000000
+					Y translation: 0.000000
+					X scaling: 1.000000
+					Y scaling: 1.000000
+					Rotation counterclockwise: 0.000000
+					Skew: 0.000000
+				Form bounding box
+					0.000000
+					0.000000
+					841.890015
+					595.276001
+	Preflight information
+		Preflight, 18.6.0 (268)
+		Acrobat version: 24.001
+		Date: 27/03/24 18:22
+		User name: Nico
+		Computer name: Nico’s MacBook Pro
+		Operating system: macOS 14.0.0
+		Duration: "00:00:01"
